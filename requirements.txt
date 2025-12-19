@@ -1,0 +1,27 @@
+# Deep Learning Framework
+torch>=1.9.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+scikit-learn-intelex>=2021.3.0  # Optional: Intel ML acceleration
+
+# Data Processing
+pandas>=1.3.0
+numpy>=1.20.0
+joblib>=1.0.0
+
+# Web Analysis and URL Processing
+requests>=2.26.0
+beautifulsoup4>=4.9.3
+tld>=0.12.6
+python-whois>=0.7.3
+
+# Natural Language Processing
+nltk>=3.6.0
+
+# Utilities
+tqdm>=4.62.0
+matplotlib>=3.4.0
+
+# Python Version
+# Requires Python 3.7+
